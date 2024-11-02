@@ -55,3 +55,8 @@
 
 
 ```
+
+## Рисунок
+
+![Как-то так](https://github.com/NataliaSafiullina/HW_JVM/raw/main/src/jvm_work.png)
+
